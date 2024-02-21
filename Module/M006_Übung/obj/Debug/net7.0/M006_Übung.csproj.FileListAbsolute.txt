@@ -1,0 +1,14 @@
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\M006_Übung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\M006_Übung.AssemblyInfoInputs.cache
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\M006_Übung.AssemblyInfo.cs
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\M006_Übung.csproj.CoreCompileInputs.cache
+C:\Users\Student\Nicko\M006_Übung\bin\Debug\net7.0\M006_Übung.exe
+C:\Users\Student\Nicko\M006_Übung\bin\Debug\net7.0\M006_Übung.deps.json
+C:\Users\Student\Nicko\M006_Übung\bin\Debug\net7.0\M006_Übung.runtimeconfig.json
+C:\Users\Student\Nicko\M006_Übung\bin\Debug\net7.0\M006_Übung.dll
+C:\Users\Student\Nicko\M006_Übung\bin\Debug\net7.0\M006_Übung.pdb
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\M006_Übung.dll
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\refint\M006_Übung.dll
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\M006_Übung.pdb
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\M006_Übung.genruntimeconfig.cache
+C:\Users\Student\Nicko\M006_Übung\obj\Debug\net7.0\ref\M006_Übung.dll
