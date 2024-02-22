@@ -1,0 +1,14 @@
+C:\Users\Student\Nicko\M010\bin\Debug\net7.0\M010.exe
+C:\Users\Student\Nicko\M010\bin\Debug\net7.0\M010.deps.json
+C:\Users\Student\Nicko\M010\bin\Debug\net7.0\M010.runtimeconfig.json
+C:\Users\Student\Nicko\M010\bin\Debug\net7.0\M010.dll
+C:\Users\Student\Nicko\M010\bin\Debug\net7.0\M010.pdb
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\M010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\M010.AssemblyInfoInputs.cache
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\M010.AssemblyInfo.cs
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\M010.csproj.CoreCompileInputs.cache
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\M010.dll
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\refint\M010.dll
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\M010.pdb
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\M010.genruntimeconfig.cache
+C:\Users\Student\Nicko\M010\obj\Debug\net7.0\ref\M010.dll
