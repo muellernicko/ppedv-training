@@ -1,0 +1,6 @@
+C:\Users\Student\Nicko\M013\TestProject1\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Student\Nicko\M013\TestProject1\obj\Debug\net7.0\M013_Test.csproj.AssemblyReference.cache
+C:\Users\Student\Nicko\M013\TestProject1\obj\Debug\net7.0\M013_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Nicko\M013\TestProject1\obj\Debug\net7.0\M013_Test.AssemblyInfoInputs.cache
+C:\Users\Student\Nicko\M013\TestProject1\obj\Debug\net7.0\M013_Test.AssemblyInfo.cs
+C:\Users\Student\Nicko\M013\TestProject1\obj\Debug\net7.0\M013_Test.csproj.CoreCompileInputs.cache
